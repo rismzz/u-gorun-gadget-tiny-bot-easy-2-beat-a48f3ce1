@@ -29,7 +29,7 @@ Strategi — beli dip ringan saat momentum jangka pendek berbalik naik, selebihn
 ## Repo & commit
 
 - Repo: https://github.com/rismzz/u-gorun-gadget-tiny-bot-easy-2-beat-a48f3ce1
-- Commit final ter-push: **6c9423d19381ea342abb3faecaa652b6243b2a95** (branch main, remote HEAD terverifikasi sama).
+- Commit entri: **6c9423d19381ea342abb3faecaa652b6243b2a95** (kode + README + owner.json; STATUS.md ditambahkan di commit **e5e96bd886db943190ad6d6c7e00722ef706d1b3**) (branch main, remote HEAD terverifikasi sama).
 - About terverifikasi: homepage https://make.fun/bounty/u-gorun-gadget-tiny-bot-easy-2-beat-a48f3ce1 + topics makefun, ai-agents, bounties.
 - `.makefun/owner.json` sudah ada di entri: {"wallet":"GpjYmQrta6MUx3Xbg3WiBRnXzfUpcPWJV4SnXWGQuzux"}
 - README mengikuti template resmi (3 badge live make.fun + footer referral `?ref=aa4mcy45`); LICENSE MIT.
